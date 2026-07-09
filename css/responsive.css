@@ -1,0 +1,101 @@
+@media screen and (max-width: 720px){
+
+    h2 {
+        font-size: 24px;
+    }
+    .entrepreneurial-photo {
+        margin-left: 0px; 
+    }
+    .entrepreneurial-photo img {
+        width: 100%;
+    }
+    .wisdom-title {
+        margin-bottom: 50px;
+    }
+    .wisdom-main {
+        margin-top: 0px;
+    }
+    .wisdom-box{
+        margin-top: 30px;
+    }
+    .wisdom-btom h5 {
+        font-size: 16px;
+    }
+    .genius-main {
+        width: 100%;
+    }
+    .genius-text {
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    .revolutionary-text {
+        margin-right: 0px; 
+    }
+    .revolutionary-photo img {
+        margin-top: 20px;
+        width: 100%;
+    }
+    .movement-photo img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .mar-btom{
+        margin-bottom: 30px;
+    }
+    .genius-text-btom{
+        margin-bottom: 50px;
+    }
+    .membership-photo {
+        margin-left: 0px; 
+        width: 100%;
+    }
+    #revolution {
+        padding-top: 0px ;
+    }
+    .revolution-photo img {
+        width: 100%;
+    }
+    .revolution-btom {
+        margin: 0 15px;
+        margin-top: 30px;
+        width: 100%;
+    }
+    .book-main {
+      margin-top: 0px;
+    }
+    .author-main {
+        width: 100%;
+    }
+    .author-btom {
+        width: 100%;
+    }
+    .move{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .genius-text-btom p{
+        font-size: 13px;
+    }
+    .popup-main h1{
+        font-size: 28px;
+    }
+    .form-content {
+        width: 95%;
+    }
+    .popup-main {
+        width: 100%;
+    }
+    .form-content button {
+        width: 40%;
+    }
+        .flex-reverse{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .revolutionary-text{
+        margin-top: 30px;
+    }
+    .membership-text{
+        margin-top: 30px;
+    }
+}
